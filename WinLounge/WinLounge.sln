@@ -5,9 +5,9 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "gpm_common", "gpm_common.cs
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "gpm_communicator", "gpm_communicator.csproj", "{D18B514A-24E9-B6B2-3EFB-90A13EB86408}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "gpm_webview", "gpm_webview.csproj", "{C16B178C-5B0C-B3B7-A12E-59E2FB13EF14}"
-EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assembly-CSharp", "Assembly-CSharp.csproj", "{A76668A9-EB51-596D-C102-6A9F0C498F69}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "gpm_webview", "gpm_webview.csproj", "{C16B178C-5B0C-B3B7-A12E-59E2FB13EF14}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "gpm_manager", "gpm_manager.csproj", "{597A1976-EEB2-5047-5282-844C3CECA933}"
 EndProject
@@ -25,14 +25,14 @@ Global
 		{D18B514A-24E9-B6B2-3EFB-90A13EB86408}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D18B514A-24E9-B6B2-3EFB-90A13EB86408}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D18B514A-24E9-B6B2-3EFB-90A13EB86408}.Release|Any CPU.Build.0 = Release|Any CPU
-		{C16B178C-5B0C-B3B7-A12E-59E2FB13EF14}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{C16B178C-5B0C-B3B7-A12E-59E2FB13EF14}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{C16B178C-5B0C-B3B7-A12E-59E2FB13EF14}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{C16B178C-5B0C-B3B7-A12E-59E2FB13EF14}.Release|Any CPU.Build.0 = Release|Any CPU
 		{A76668A9-EB51-596D-C102-6A9F0C498F69}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{A76668A9-EB51-596D-C102-6A9F0C498F69}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A76668A9-EB51-596D-C102-6A9F0C498F69}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A76668A9-EB51-596D-C102-6A9F0C498F69}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C16B178C-5B0C-B3B7-A12E-59E2FB13EF14}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C16B178C-5B0C-B3B7-A12E-59E2FB13EF14}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C16B178C-5B0C-B3B7-A12E-59E2FB13EF14}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C16B178C-5B0C-B3B7-A12E-59E2FB13EF14}.Release|Any CPU.Build.0 = Release|Any CPU
 		{597A1976-EEB2-5047-5282-844C3CECA933}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{597A1976-EEB2-5047-5282-844C3CECA933}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{597A1976-EEB2-5047-5282-844C3CECA933}.Release|Any CPU.ActiveCfg = Release|Any CPU

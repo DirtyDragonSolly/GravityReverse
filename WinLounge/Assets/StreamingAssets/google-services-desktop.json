@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "258773171837",
+    "project_id": "testfb-a1cfd",
+    "storage_bucket": "testfb-a1cfd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:258773171837:android:f8f3e774d559bd29907b14",
+        "android_client_info": {
+          "package_name": "com.test.fbRemoteConfig"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "258773171837-m9i3md4flj5281tch0g46aocj8p41im0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDf8qY50dUNgncREoD2avPT-qffu5HMTHc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "258773171837-m9i3md4flj5281tch0g46aocj8p41im0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

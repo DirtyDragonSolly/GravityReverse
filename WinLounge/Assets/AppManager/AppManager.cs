@@ -21,7 +21,6 @@ public class AppManager : MonoBehaviour
             {
                 loading.SetActive(false);
             }
-
 		}
         else if (!PlayerPrefs.HasKey("Url"))
         {
